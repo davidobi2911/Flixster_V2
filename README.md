@@ -1,10 +1,10 @@
 # Android Project 4 - *Flixster V2*
 
-Submitted by: **Farouk Balogun**
+Submitted by: **David Oluyomi-Lords**
 
 **Flixster Part2** is a movie browsing app that allows users to browse upcoming movies.
 
-Time spent: **7** hours spent in total
+Time spent: **12** hours spent in total
 
 ## Required Features
 
